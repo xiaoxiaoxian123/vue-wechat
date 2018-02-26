@@ -10,7 +10,7 @@ http://120.78.142.165:5555/#/tab/wechat（移动端效果更佳）
 
 1.克隆项目地址并下载（需要安装Git）
 
-git clone git@github.com:liumiemie/vue-wechat.git
+git clone git@github.com:xiaoxiaoxian123/vue-wechat.git
 
 2.通过npm安装本地服务第三方依赖模块（需要安装Node.js）
 
