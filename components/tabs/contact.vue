@@ -150,5 +150,8 @@
 .weui_cell:before{
 	    border-top: 1px solid #d9d9d9;
 }
+.contact-friends{
+	margin-bottom: 50px;
+}
 </style>
 

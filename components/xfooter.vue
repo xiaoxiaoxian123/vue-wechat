@@ -58,5 +58,9 @@
 	}
 </script>
 
-<style>
+<style scoped="scoped">
+	.weui-tabbar{
+		position: fixed;
+		bottom: 0;
+	}
 </style>

@@ -2,7 +2,7 @@
 <div>
     <div class="_cover-top"  >
         <div class="top-back" >
-            <a href="#/tab/contact" style="color:white;"><div class="_ellipsis iconfont icon-return-arrow v-link-active" ><img src="../../public/img/leftsanjiao.png" style="width:12px;height:19px;line-height: 45px;vertical-align: middle;margin-right: 5px;"/>通讯录</div></a>
+            <a href="#/tab/contact" style="color:white;font-size: 16px;"><div class="_ellipsis iconfont icon-return-arrow v-link-active" ><img src="../../public/img/leftsanjiao.png" style="width:12px;height:19px;line-height: 45px;vertical-align: middle;margin-right: 5px;"/>通讯录</div></a>
         </div>
         <div class="top-other" >
             <div slot="right" class="_align-right"  style="float:right;">
@@ -27,7 +27,7 @@
     <div class="weui_cells message-list" style="margin-top: 0px;" >
         <div class="weui_cell" >
             <div class="weui_cell_hd" >
-                <img src="//ad-gold-cdn.xitu.io/14999140634069b6825290779221783b3b59fbba0addd.jpg" alt="" style="width:40px;margin-right:5px;display:block"
+                <img src="../../public/img/11.jpg" alt="" style="width:40px;margin-right:5px;display:block"
                     > </div>
             <div class="weui_cell_bd weui_cell_primary" >
                 <p >
@@ -42,7 +42,7 @@
         </div>
         <div class="weui_cell" >
             <div class="weui_cell_hd" >
-                <img src="//ad-gold-cdn.xitu.io/14999140634069b6825290779221783b3b59fbba0addd.jpg" alt="" style="width:40px;margin-right:5px;display:block"
+                <img src="../../public/img/11.jpg" alt="" style="width:40px;margin-right:5px;display:block"
                     >
             </div>
             <div class="weui_cell_bd weui_cell_primary" >
@@ -58,7 +58,7 @@
         </div>
         <div class="weui_cell" >
             <div class="weui_cell_hd" >
-                <img src="//ad-gold-cdn.xitu.io/14999140634069b6825290779221783b3b59fbba0addd.jpg" alt="" style="width:40px;margin-right:5px;display:block"
+                <img src="../../public/img/11.jpg" alt="" style="width:40px;margin-right:5px;display:block"
                     >
             </div>
             <div class="weui_cell_bd weui_cell_primary" >

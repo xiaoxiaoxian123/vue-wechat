@@ -2,7 +2,7 @@
 <div>
   <div class="_cover-top"  >
         <div class="top-back" >
-            <a href="#/tab/contact" style="color:white;float: left;"><div class="_ellipsis iconfont icon-return-arrow v-link-active" ><img src="../../public/img/leftsanjiao.png" style="width:12px;height:19px;line-height: 45px;vertical-align: middle;margin-right: 5px;"/>通讯录</div></a>
+            <a href="#/tab/contact" style="color:white;float: left;font-size: 16px;"><div class="_ellipsis iconfont icon-return-arrow v-link-active" ><img src="../../public/img/leftsanjiao.png" style="width:12px;height:19px;line-height: 45px;vertical-align: middle;margin-right: 5px;"/>通讯录</div></a>
         </div>
         <div class="top-title _effect" style="width: 230px;">
             <p>

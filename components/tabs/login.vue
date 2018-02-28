@@ -73,7 +73,7 @@
 </script>
 
 <style scoped="scoped">
-html{font-size: 62.5%;}/*1rem=10px*/
+/*1rem=10px*/
 a img{
   border:0;
 }
@@ -89,56 +89,56 @@ a{
 }
 /*头部样式*/
 	h3{
-		line-height: 4.5rem;
+		line-height: 45px;
 		background: #393a3f;
-		font-size: 2rem;
+		font-size: 16px;
 		color: #fff;
 		font-weight: 500;
-		padding:0 1.2rem;
+		padding:0 12px;
 		display: flex;
 		align-items: center;
-		margin-bottom: 0.75rem;
+		margin-bottom: 7.5px;
 	}
 	h3 a{
-		width: 4rem;height:2.95rem;
-		padding-right: 1.5rem;
+		width: 40px;height:30px;
+		padding-right: 15px;
 	}
 	h3 img{
-		width: 4rem;height:2.95rem;
+		width: 40px;height:30px;
 	}
 p{
-	height: 4rem;line-height: 4rem;
+	height: 40px;line-height: 40px;
 	border-bottom: 1px solid #E5E5E5;
-	font-size: 1.2rem;
+	font-size: 14px;
 }
 p span{
 	float: left;
-	width: 20%;height: 4rem;
-	font-size:1rem;
+	width: 20%;height: 40px;
+	font-size:14px;
 }
 p input{
 	border: 0;width: 80%;
-	height: 3.5rem;
+	height: 35px;
 	outline: none;
-	font-size: 2rem;
+	font-size: 20px;
 }
 button{
 	width: 100%;
-	height: 3.5rem;
+	height: 35px;
 	background-color: green;
 	color: #fff;
 	border: 0;
-	font-size: 2rem;
-	margin: 1rem 0;
+	font-size: 16px;
+	margin: 10px 0;
 }
 .login div{
-	padding: 0 2rem;
+	padding: 0 20px;
 }
 .login div em{
 	display: block;
-	width: 100%;height: 4rem;
+	width: 100%;height: 40px;
 	text-align: center;
-	font-size: 2.2rem;line-height: 4rem;
+	font-size: 22px;line-height: 40px;
 	color: red;
 	font-style: normal;
 }

@@ -2,7 +2,7 @@
   <div>
       <div class="_cover-top" >
         <div class="top-back" >
-            <a href="#/tab/contact" style="color:white"><div class="_ellipsis iconfont icon-return-arrow v-link-active" ><img src="../../public/img/leftsanjiao.png" style="width:12px;height:19px;line-height: 45px;vertical-align: middle;margin-right: 5px;"/>返回</div></a>
+            <a href="#/tab/contact" style="color:white;font-size: 16px;"><div class="_ellipsis iconfont icon-return-arrow v-link-active" ><img src="../../public/img/leftsanjiao.png" style="width:12px;height:19px;line-height: 45px;vertical-align: middle;margin-right: 5px;"/>返回</div></a>
         </div>
         <div class="top-title _effect">
             <p>
@@ -14,7 +14,7 @@
     <div class="weui_cells group-list" >
         <div class="weui_cell" >
             <div class="weui_cell_hd" >
-                <img src="//ad-gold-cdn.xitu.io/1499913766441c45960d8bd44ed5ffcf0d4a67d0aa317.jpg" alt="" >
+                <img src="../../public/img/2.jpg" alt="" >
             </div>
             <div class="weui_cell_bd weui_cell_primary" >
                 <p >web前端交流群
@@ -24,7 +24,7 @@
         </div>
         <div class="weui_cell" >
             <div class="weui_cell_hd" >
-                <img src="//ad-gold-cdn.xitu.io/1499913766441c45960d8bd44ed5ffcf0d4a67d0aa317.jpg" alt="" >
+                <img src="../../public/img/2.jpg" alt="" >
             </div>
             <div class="weui_cell_bd weui_cell_primary" >
                 <p >web前端交流群
@@ -34,7 +34,7 @@
         </div>
         <div class="weui_cell" >
             <div class="weui_cell_hd" >
-                <img src="//ad-gold-cdn.xitu.io/1499913766441c45960d8bd44ed5ffcf0d4a67d0aa317.jpg" alt="" >
+                <img src="../../public/img/2.jpg" alt="" >
             </div>
             <div class="weui_cell_bd weui_cell_primary" >
                 <p >web前端交流群
@@ -44,7 +44,7 @@
         </div>
         <div class="weui_cell" >
             <div class="weui_cell_hd" >
-                <img src="//ad-gold-cdn.xitu.io/1499913766441c45960d8bd44ed5ffcf0d4a67d0aa317.jpg" alt="" >
+                <img src="../../public/img/2.jpg" alt="" >
             </div>
             <div class="weui_cell_bd weui_cell_primary" >
                 <p >web前端交流群
@@ -54,7 +54,7 @@
         </div>
         <div class="weui_cell" >
             <div class="weui_cell_hd" >
-                <img src="//ad-gold-cdn.xitu.io/1499913766441c45960d8bd44ed5ffcf0d4a67d0aa317.jpg" alt="" >
+                <img src="../../public/img/2.jpg" alt="" >
             </div>
             <div class="weui_cell_bd weui_cell_primary" >
                 <p >web前端交流群
@@ -64,7 +64,7 @@
         </div>
         <div class="weui_cell" >
             <div class="weui_cell_hd" >
-                <img src="//ad-gold-cdn.xitu.io/1499913766441c45960d8bd44ed5ffcf0d4a67d0aa317.jpg" alt="" >
+                <img src="../../public/img/2.jpg" alt="" >
             </div>
             <div class="weui_cell_bd weui_cell_primary" >
                 <p >web前端交流群
