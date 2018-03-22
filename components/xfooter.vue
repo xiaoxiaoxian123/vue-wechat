@@ -26,7 +26,6 @@
 </template>
 
 <script>
-	import $ from "jQuery"
 	export default {
 		data(){
 			return {
